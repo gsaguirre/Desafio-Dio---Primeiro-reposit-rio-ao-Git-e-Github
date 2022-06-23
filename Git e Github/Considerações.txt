@@ -1,0 +1,4 @@
+Git é um software colaborativo.
+Github é uma "rede social" para desenvolvedores que através de uma plataforma podem compartilhar projetos.
+
+[Link para download do Git:] https://git-scm.com/downloads
